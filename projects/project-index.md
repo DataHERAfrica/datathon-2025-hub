@@ -18,7 +18,27 @@ This page contains all project submissions.
 
 ---
 
-### 🔹 Project Name 2
-- Repo: (link)
-- Track: Finance
-- Summary: Short description
+### 🔹 Africare 
+- Repo: https://github.com/DataHERAfrica/datathon-2025-Africare
+- Track: Healthcare
+- Summary: 
+Bridging the Health Information Gap in Rural Africa
+
+📖 About The Project
+Africare is an AI-powered community health chatbot designed to tackle the critical shortage of healthcare professionals in rural Africa. By providing medically verified information in local languages and operating offline, Africare bridges the gap between patients and doctors.
+
+🚩 The Problem
+Severe Shortage: 1 doctor for every 5,000+ people in many rural communities.
+
+Misinformation: Dangerous home remedies spread via word-of-mouth when professional advice is inaccessible.
+
+Language Barriers: Most health information is in English/French, excluding local dialect speakers.
+
+💡 The Solution
+Africare is an intelligent chatbot that:
+
+Works Offline: accessible in low-connectivity areas.
+
+Speaks Local Languages: supports Twi, Swahili, Fante, Ga, and Ewe.
+
+Is Medically Verified: cross-references queries against safe medical protocols.
