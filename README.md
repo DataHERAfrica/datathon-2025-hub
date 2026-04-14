@@ -14,18 +14,21 @@ This initiative continues our mission: To equip Black and Brown women with the s
 🌍 Goal: Empower women and allies to design data-driven AI solutions that create social impact and visibility for women in data and AI.
 
 #💡 Challenge Tracks
+
 ##🩺 1️⃣ Health & Wellbeing
 
 Challenge: Build an AI chatbot to share verified health information in underserved areas.
 
 Focus: Use open health datasets and NLP to develop a simple, interactive system that answers health-related questions.
 Impact: Promote access to reliable health education, especially in rural or low-resource settings.
+
 ##💻 2️⃣ Education & Economic Inclusion
 
 Challenge: Analyze how digital access impacts women’s participation in tech careers.
 
 Focus: Explore datasets on internet access, digital literacy, and female tech workforce participation.
 Impact: Identify barriers to women entering and thriving in digital fields — and propose data-backed solutions.
+
 ##🌿 3️⃣ Climate & Sustainability
 
 Challenge: Predict renewable energy potential across African cities.
