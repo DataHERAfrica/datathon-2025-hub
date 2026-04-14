@@ -96,3 +96,13 @@ Limited access to the internet and digital literacy skills hinder women’s part
 
 💡 Objective
 This study analyzes open datasets to identify patterns and correlations between internet access, digital literacy, and women’s participation in technology. By focusing on female internet usage as the primary indicator, and comparing with male usage where possible, we aim to highlight disparities and propose actionable recommendations
+
+---
+
+### 🔹 Alpha Team 
+- Repo: https://github.com/DataHERAfrica/Datathon-2025-Alpha
+- Track: Education & Economic Inclusion
+- Summary:
+
+
+
