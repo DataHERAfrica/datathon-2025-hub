@@ -13,9 +13,9 @@ The DataHER Datathon is an initiative empowering women and underrepresented comm
 
 ## 🧩 Tracks
 - Healthcare
-- Finance
-- Education
-- AI / Machine Learning
+- Education & Economic Inclusion
+- Climate & Sustainability
+
 
 ---
 
