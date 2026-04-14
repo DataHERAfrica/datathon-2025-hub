@@ -37,6 +37,12 @@ Widespread misinformation Language barriers Lack of trusted sources Limited lite
 
 ---
 
+### 🔹 AskDokita // Team name- Data Weavers 
+- Repo: https://github.com/DataHERAfrica/datathon-2025-Africare
+- Track: Healthcare
+- Summary:
+---
+
 ### 🔹 Africare 
 - Repo: https://github.com/DataHERAfrica/datathon-2025-Africare
 - Track: Healthcare
