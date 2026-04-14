@@ -48,9 +48,8 @@ Millions of people in rural areas struggle to access basic health knowledge due 
 Poor internet connectivity Limited availability of health workers Language barriers Low digital literacy Reliance on unverified health rumours This lack of accessible information leads to preventable illness, delayed care, and poor health outcomes.
 
 💡 Solution
-AskDokita is designed as a multi-channel AI health chatbot that provides verified responses to common health questions such as:
 
-What are the symptoms of malaria?, How can I prevent cholera?, How do I treat dehydration in a child?, The chatbot retrieves information from trusted health sources (like WHO, Africa CDC, and national health agencies) and uses Gemini 2.5 Flash-Lite combined with Retrieval-Augmented Generation (RAG) and Google Search Grounding to ensure accurate and grounded answers.
+AskDokita is designed as a multi-channel AI health chatbot that provides verified responses to common health questions such as: What are the symptoms of malaria?, How can I prevent cholera?, How do I treat dehydration in a child?, The chatbot retrieves information from trusted health sources (like WHO, Africa CDC, and national health agencies) and uses Gemini 2.5 Flash-Lite combined with Retrieval-Augmented Generation (RAG) and Google Search Grounding to ensure accurate and grounded answers.
 ---
 
 ### 🔹 Africare 
