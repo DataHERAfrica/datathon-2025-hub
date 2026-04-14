@@ -82,8 +82,9 @@ Is Medically Verified: cross-references queries against safe medical protocols.
 ### 🔹 Solution Team 
 - Repo: https://github.com/DataHERAfrica/Datathon-2025-Solution
 - Track: Healthcare
-- Summary: Problem Statement
+- Summary:
+  🚩 Problem Statement
 Limited access to the internet and digital literacy skills hinder women’s participation and growth in technology careers across Africa. Without equitable access, women are excluded from opportunities in education, employment, and entrepreneurship, reinforcing existing gender inequalities.
 
-Objective
+💡 Objective
 This study analyzes open datasets to identify patterns and correlations between internet access, digital literacy, and women’s participation in technology. By focusing on female internet usage as the primary indicator, and comparing with male usage where possible, we aim to highlight disparities and propose actionable recommendations
