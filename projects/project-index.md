@@ -42,15 +42,15 @@ Widespread misinformation Language barriers Lack of trusted sources Limited lite
 - Track: Healthcare
 - Summary: AskDokita is an AI-driven health information platform designed to help people in rural and underserved communities access accurate, reliable, and easy-to-understand health guidance. The project provides a simple chat-based interface—available online and offline via SMS—to ensure that individuals with limited resources can get trustworthy health information anytime.
 
-Problem Statement
+🚩 Problem Statement
 Millions of people in rural areas struggle to access basic health knowledge due to:
 
 Poor internet connectivity Limited availability of health workers Language barriers Low digital literacy Reliance on unverified health rumours This lack of accessible information leads to preventable illness, delayed care, and poor health outcomes.
 
-Solution
+💡 Solution
 AskDokita is designed as a multi-channel AI health chatbot that provides verified responses to common health questions such as:
 
-"What are the symptoms of malaria?" "How can I prevent cholera?" "How do I treat dehydration in a child?" The chatbot retrieves information from trusted health sources (like WHO, Africa CDC, and national health agencies) and uses Gemini 2.5 Flash-Lite combined with Retrieval-Augmented Generation (RAG) and Google Search Grounding to ensure accurate and grounded answers.
+What are the symptoms of malaria?, How can I prevent cholera?, How do I treat dehydration in a child?, The chatbot retrieves information from trusted health sources (like WHO, Africa CDC, and national health agencies) and uses Gemini 2.5 Flash-Lite combined with Retrieval-Augmented Generation (RAG) and Google Search Grounding to ensure accurate and grounded answers.
 ---
 
 ### 🔹 Africare 
