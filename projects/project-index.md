@@ -88,7 +88,7 @@ Is Medically Verified: cross-references queries against safe medical protocols.
 
 ### 🔹 Solution Team 
 - Repo: https://github.com/DataHERAfrica/Datathon-2025-Solution
-- Track: Healthcare
+- Track: Education & Economic Inclusion
 - Summary:
 
 🚩 Problem Statement
