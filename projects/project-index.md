@@ -49,7 +49,12 @@ Poor internet connectivity Limited availability of health workers Language barri
 
 💡 Solution
 
-AskDokita is designed as a multi-channel AI health chatbot that provides verified responses to common health questions such as: What are the symptoms of malaria?, How can I prevent cholera?, How do I treat dehydration in a child?, The chatbot retrieves information from trusted health sources (like WHO, Africa CDC, and national health agencies) and uses Gemini 2.5 Flash-Lite combined with Retrieval-Augmented Generation (RAG) and Google Search Grounding to ensure accurate and grounded answers.
+AskDokita is designed as a multi-channel AI health chatbot that provides verified responses to common health questions such as:
+
+"What are the symptoms of malaria?"
+"How can I prevent cholera?"
+"How do I treat dehydration in a child?"
+The chatbot retrieves information from trusted health sources (like WHO, Africa CDC, and national health agencies) and uses Gemini 2.5 Flash-Lite combined with Retrieval-Augmented Generation (RAG) and Google Search Grounding to ensure accurate and grounded answers.
 ---
 
 ### 🔹 Africare 
@@ -83,7 +88,8 @@ Is Medically Verified: cross-references queries against safe medical protocols.
 - Repo: https://github.com/DataHERAfrica/Datathon-2025-Solution
 - Track: Healthcare
 - Summary:
-  🚩 Problem Statement
+
+🚩 Problem Statement
 Limited access to the internet and digital literacy skills hinder women’s participation and growth in technology careers across Africa. Without equitable access, women are excluded from opportunities in education, employment, and entrepreneurship, reinforcing existing gender inequalities.
 
 💡 Objective
