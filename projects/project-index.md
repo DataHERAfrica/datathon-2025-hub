@@ -55,6 +55,8 @@ AskDokita is designed as a multi-channel AI health chatbot that provides verifie
 "How can I prevent cholera?"
 "How do I treat dehydration in a child?"
 The chatbot retrieves information from trusted health sources (like WHO, Africa CDC, and national health agencies) and uses Gemini 2.5 Flash-Lite combined with Retrieval-Augmented Generation (RAG) and Google Search Grounding to ensure accurate and grounded answers.
+
+
 ---
 
 ### 🔹 Africare 
